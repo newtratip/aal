@@ -1,5 +1,5 @@
 {
-    'name': 'AAL Stock',
+    'name': 'AAL Stockpodkung',
     'summary': 'Modify field in stock module',
     'version': '12.0.1.0.0',
     'category': 'Stock',
